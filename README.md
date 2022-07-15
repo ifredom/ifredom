@@ -15,7 +15,7 @@
 - 🤔 我喜欢Dota和游泳...
 - 😄 如果您有一些有趣的应用项目，我很乐意收到您的来信！你可以在这里查看我的演示。
 - 💬 也许你想加我微信 ...
-
+<!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ifredom&repo=vue-answer&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ifredom&repo=flutter-template-perfect&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,4 +23,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ifredom&repo=flutter_plugins_example&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ifredom&repo=vexflow-piano&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
